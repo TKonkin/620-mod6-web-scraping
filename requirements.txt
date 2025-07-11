@@ -310,11 +310,11 @@ seaborn
 # Currently requires Python <=3.12
 spacy
 
-# spacytextblob
+spacytextblob
 
-# beautifulsoup4
+beautifulsoup4
 
-# html5lib
+html5lib
 
 # ======================================================
 # SENDING ALERTS via Simple Email or SMS Text using Gmail
